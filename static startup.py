@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # Made by Static Startup 2.0 on 27th of July 2024 for GIIS Hackathon X
 
 # Importing libaries for GUI and random operation
